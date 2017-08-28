@@ -1,0 +1,2 @@
+# Participative-Assignment-Marking-System
+A significant problem in large scale education is marking assignments. The logistics of distributing assignments to markers and ensuring that marking is completed in a timely manner can present a considerable administrative burden. Additionally encouraging fair and informative marking and generally improving the standard of marking can be a significant task that simply becomes too hard on a large scale. 
